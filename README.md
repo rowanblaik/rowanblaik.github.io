@@ -31,4 +31,4 @@ Highlight the following plant name: _Magnolia_ × _brooklynensis_ and click the 
 
 ### Credits
 
-This bookmarklets were inspired by Kew's, now defunct, ePIC [browser button](http://epic.kew.org/tbutton.htm).
+This bookmarklets were inspired by RBG Kew's ePIC [browser button](http://epic.kew.org/tbutton.htm).
