@@ -22,7 +22,7 @@ Highlight the following plant name: _Magnolia_ × _brooklynensis_ and click the 
 
 |Link|Search by|
 |------|-----------------|
-|<a href="javascript:Qr=document.getSelection().toString().trim();if(Qr==''){void(Qr=window.prompt('Enter a scientific plant name:',''))};Qr=Qr.replace(/ x | × /g,' ');if(Qr)window.open('http://www.theplantlist.org/tpl1.1/search?q='+encodeURIComponent(Qr),'_blank');">WFO</a>| World Flora Online |
+|<a href="javascript:Qr=document.getSelection().toString().trim();if(Qr==''){void(Qr=window.prompt('Enter a scientific plant name:',''))};if(Qr)window.open('http://www.worldfloraonline.org/search?query='+encodeURIComponent(Qr),'_blank');">WFO</a>| World Flora Online |
 |<a href="javascript:Qr=document.getSelection().toString().trim();if(Qr==''){void(Qr=window.prompt('Enter a scientific plant name:',''))};Qr=Qr.replace(/ x | × /g,' ');if(Qr)window.open('http://www.theplantlist.org/tpl1.1/search?q='+encodeURIComponent(Qr),'_blank');">TPL</a>| The Plant List |
 |<a href="javascript:Qr=document.getSelection().toString().trim();if(Qr==''){void(Qr=window.prompt('Enter a scientific plant name:',''))};if(Qr)window.open('https://www.rhs.org.uk/Plants/Search-Results?query='+encodeURIComponent(Qr),'_blank');">RHS-PF</a>| RHS \'Find a plant\' |
 |<a href="javascript:Qr=document.getSelection().toString().trim();if(Qr==''){void(Qr=window.prompt('Enter a scientific plant name:',''))};Qr=Qr.replace(/×/g,'').replace(/['‘’]/g,'').replace(/\s+/g,' and ');if(Qr)window.open('http://apps.rhs.org.uk/horticulturaldatabase/summary2.asp?crit='+encodeURIComponent(Qr)+'&genus='+Qr.match(/\w+/),'_blank');">RHS-DB</a>| RHS \'Hort DB\' |
