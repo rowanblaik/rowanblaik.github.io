@@ -1,5 +1,7 @@
 ## Plant search bookmarklets
 
+Updated 2019-05-21
+
 The following links are 'bookmarklets' – links allow you to search BBG's plant records via the its public website. You can search in two ways: by highlighting a plant name or accession number in your web browser and clicking the bookmarklets in your bookmarks bar; or by clicking the bookmarklets first and entering a plant details in the on-screen prompt.
 
 Further details are in the main GitHub repository [here](https://github.com/rowanblaik/plant-search-bookmarklets).
